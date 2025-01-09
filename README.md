@@ -16,7 +16,7 @@ The datasets can be downloaded from the following links.
 
 Download NTURGB-D-120 dataset: [Click here]([https://ieeexplore.ieee.org/abstract/document/9171455](https://rose1.ntu.edu.sg/dataset/actionRecognition/))
 
-Download InfAR dataset: [Click here]([https://www.sciencedirect.com/science/article/pii/S0924271623002940](https://www.sciencedirect.com/science/article/pii/S0925231216307044) 
+Download InfAR dataset: [Click here]([https://www.sciencedirect.com/science/article/pii/S0924271623002940](https://www.sciencedirect.com/science/article/pii/S0925231216307044)) 
 
 
 
